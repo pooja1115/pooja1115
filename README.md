@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pooja1115
-- 👀 I’m interested in  java ,HTML,CSS
-- 🌱 I’m currently learning  java full stack developer.
+- 👀 I’m interested in  Java, Mysql and Front End Technologies
+- 🌱 I’m currently learning Java Full Stack Developer certification from Edubridge
 - 💞️ I’m looking to collaborate on  on Programing
 - 📫 How to reach me  jaraspooja@gmail.com
 
